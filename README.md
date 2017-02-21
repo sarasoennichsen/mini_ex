@@ -1,2 +1,2 @@
 # mini_ex
-mini exercises
+Weekly mini exercises for AP2017
