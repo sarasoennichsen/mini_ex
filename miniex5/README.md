@@ -1,5 +1,5 @@
 Link: https://sarasoennichsen.github.io/mini_ex/miniex5/
 
-!ScreenShot! [http://imgur.com/a/LbaeJ]
+![ScreenShot](http://i.imgur.com/fjUVxVl.png)
 
 Thingies
