@@ -6,4 +6,6 @@
 
 - This mini exercise hasn't been as difficult, or stressful, due to the fact that we had the opportunity to choose one of the coding challenges to be guided by and the focus was on getting familiar with flowcharts rather than the code. Although to make the flowchart, you have to be familiar with the code as well, I feel.
 
-- Flowchartflowchartflowchart
+![Screenshot](http://i.imgur.com/gMZRQFN.jpg)
+
+- Flowchartychart
