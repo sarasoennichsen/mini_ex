@@ -1,7 +1,7 @@
 var drops = [];
 var song;
 
-function preload() {
+function preload () {
   song = loadSound('data/prince.mp3');
 }
 
@@ -9,9 +9,9 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   for (var i = 0; i < 500; i++) {
     drops[i] = new Drop();
+  }
   song.setVolume(0.5);
   song.play();
-  }
 }
 
 function draw() {
