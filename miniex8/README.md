@@ -8,4 +8,4 @@
 
 ![Screenshot](http://i.imgur.com/gMZRQFN.jpg)
 
-- Flowchartychart
+- It took some time to figure out how the flowchart should look. My first try was almost just the code put into a flowchart, so I tried redoing it as seen above with more "normal" language. It was hard to figure out, as the code sort of jumps around first stating that objects should be shown and first later (if you read it chronological) specifies what the objects should look like. But I feel like flowcharts are useful in the sense that they force you to really think about your code and what it does, but also how it could be understood by people who don't know code.
